@@ -1,5 +1,9 @@
-<h1 align="center">Hi there, I'm Aakash Kumar 👋</h1>
-<h3 align="center">Advanced Data Analyst | BI Developer | Creator of DataPilot 🚀</h3>
+<div align="center">
+  <!-- Animated Typing Header -->
+  <a href="https://github.com/akashpunia-analyst">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Aakash+Kumar+👋;Advanced+Data+Analyst;BI+Developer+%7C+Creator+of+DataPilot;Transforming+Data+into+Insights" alt="Typing SVG" />
+  </a>
+</div>
 
 <p align="center">
   <a href="https://linkedin.com/in/aakash-kumar-a05585422" target="_blank">
@@ -10,40 +14,40 @@
   </a>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-### 👨🏻‍💻 About Me
-- 🔭 I’m currently scaling **DataPilot**, a fully native macOS Business Intelligence application optimized for Apple Silicon (M4).
-- 📊 I specialize in transforming complex datasets into actionable business intelligence using **SQL, Python, and BI Tools**.
-- 💡 I focus on optimizing heavy data-processing workflows, executing complex local SQL queries, and automating enterprise reporting.
-- 📫 How to reach me: **akashjaat.data@gmail.com**
-- ⚡ Fun fact: I built a bilingual (English/Hinglish) insight-generation engine within my native Mac app!
+### 🚀 About Me & My Vision
+- 🔭 **Currently Building:** **`DataPilot`** — A native macOS Business Intelligence app engineered for Apple Silicon (M4), capable of heavy local data-crunching without cloud dependency.
+- 💡 **Core Expertise:** End-to-end data pipelines, complex relational database schemas (SQL), root-cause analysis, and executive dashboards (Tableau/Power BI).
+- ⚙️ **Innovation:** Integrated a custom bilingual (English/Hinglish) insight-generation engine to make analytics accessible and dynamic.
+- 📫 **Let's Connect:** [akashjaat.data@gmail.com](mailto:akashjaat.data@gmail.com)
 
----
+### 🛠️ Technical Arsenal
 
-### 🛠️ Tech Stack & Tools
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <b>Data Engineering & BI</b><br><br>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+      <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" />
+    </td>
+    <td valign="top" width="50%">
+      <b>Programming & Native App Dev</b><br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+      <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-**Data & BI**
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" />
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-**Programming & App Development**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=Xcode&logoColor=white" />
-</p>
+### 📈 GitHub Analytics
 
----
-
-### 📈 GitHub Profile Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akashpunia-analyst&show_icons=true&theme=radium&hide_border=true" alt="Aakash's GitHub Stats" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akashpunia-analyst&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashpunia-analyst&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+</div>
