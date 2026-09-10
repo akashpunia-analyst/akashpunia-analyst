@@ -1,9 +1,5 @@
-<div align="center">
-  <!-- Animated Typing Header -->
-  <a href="https://github.com/akashpunia-analyst">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Aakash+Kumar+👋;Advanced+Data+Analyst;BI+Developer+%7C+Creator+of+DataPilot;Transforming+Data+into+Insights" alt="Typing SVG" />
-  </a>
-</div>
+<h1 align="center">Hi there, I'm Aakash Kumar 👋</h1>
+<h3 align="center">Advanced Data Analyst | BI Developer | Creator of DataPilot 🚀</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/aakash-kumar-a05585422" target="_blank">
@@ -44,10 +40,3 @@
 </table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-### 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akashpunia-analyst&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashpunia-analyst&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-</div>
